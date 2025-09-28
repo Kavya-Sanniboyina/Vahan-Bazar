@@ -276,7 +276,7 @@ git pull origin main
 
 ## 📞 Support
 
-For support, email [team-email] or file an issue in the repository.
+For support, email [teamzyra@gmail.com] or file an issue in the repository.
 
 ## 📄 License
 
