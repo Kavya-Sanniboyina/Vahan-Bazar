@@ -142,11 +142,11 @@ To design and develop an online two-wheeler marketplace that connects buyers, se
 
 | Team Member | Contribution |
 |-------------|--------------|
-| Nandyal Ram Sai | Problem Researcher |
-| Sanniboyina Kavya | Backend API development (Node.js/Express, authentication, data models) |
-| Mannam Ganesh Babu | UI design |
-| Shaik Samreen | EMI & Fuel cost calculator logic, bike comparison module |
-| Kamani Sashank | Database design |
+| Nandyal Ram Sai | Problem Researcher .|
+| Sanniboyina Kavya | Backend API development (Node.js/Express, authentication, data models). |
+| Mannam Ganesh Babu | UI design. |
+| Shaik Samreen | EMI & Fuel cost calculator logic, bike comparison module. |
+| Kamani Sashank | Database design .|
 
 ## 🚀 Getting Started
 
